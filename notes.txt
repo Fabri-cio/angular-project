@@ -1,0 +1,4 @@
+1 npm i -g @angular/cli
+2 ng new mi-primer-proyecto
+3 cd mi-primer-proyecto
+4 ng serve        init develop server  http://localhost:4200/
